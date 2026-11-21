@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 🔐 Report a security vulnerability
+    url: mailto:SpectrumSecIt@proton.me
+    about: Do NOT open a public issue. Send an email with subject [SECURITY].
+  - name: 📖 Documentation / README
+    url: https://github.com/Condor2026/diabolic_france_v3#readme
+    about: Check the documentation before opening an issue.
+  - name: 💬 Questions and discussion
+    url: https://github.com/Condor2026/diabolic_france_v3/discussions
+    about: For general questions, use Discussions instead of issues.
