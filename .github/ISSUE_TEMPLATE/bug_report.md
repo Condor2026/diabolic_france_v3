@@ -36,3 +36,13 @@ assignees: ''
 
 <!-- If it's a source problem, attach the output of: -->
 <!-- python diabolic_france_v3.py --debug-fuente "Name" -->
+
+<!-- paste output here -->
+
+## Screenshots / logs
+
+<!-- No personal data. Only relevant fragments -->
+
+## Additional context
+
+<!-- Any other useful information -->
